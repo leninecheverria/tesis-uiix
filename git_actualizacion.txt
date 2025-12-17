@@ -2,8 +2,8 @@
 cd /home/lenin/Escritorio/Programa-Python
 git init
 git add .
-git commit -m "Estado actual del proyecto de tesis"
-git remote add origin <tu-repositorio-github>
+git commit -m "Creación inicial del proyecto de tesis"
+git remote add origin https://github.com/leninecheverria/tesis-uiix.git
 git push -u origin main
 
 # En tu casa
