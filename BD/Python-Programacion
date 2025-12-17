@@ -1,0 +1,9 @@
+Quiero actues como un experto en metodología de la investigación, expertos programador en python, experto en estadistisca. Tengo que hacer un programa en python para:
+
+1. Lea los resultados de una encuesta que hice como parte de mi tesis de investigacion de mi maestria.
+2. Por el momento he trabajado con PSPP pero me restringue para generar los resultados gráficos más atrativos para anexar a  mi tesis.
+3. Qué es mejor, que leas el archivo .sav que ya tiene ciertos cambios tal como agregacion de variables acumuladas, o es mejor que leas el archivo de excel que tengo sin cambios y que lo extraje de la encuesta de google form?
+4. Quiero me gués en qué resultados nomás deberíamos presentar en la tesis, tales como la fiabilidad y confianza del intrumento, luego el analisis de los datos, y presentación de resultados para mi tesis
+5. Los 2 archivos están en la subcarpeta BD.
+6. El porgrama quiero que me lo generes bien estructurado en carpetas, las variables, que no esté todo en un solo archivo. La programaciuón debe constar de comentarios de lo que está haciendo.
+

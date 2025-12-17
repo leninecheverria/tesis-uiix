@@ -1,0 +1,10 @@
+# En tu oficina
+cd /home/lenin/Escritorio/Programa-Python
+git init
+git add .
+git commit -m "Estado actual del proyecto de tesis"
+git remote add origin <tu-repositorio-github>
+git push -u origin main
+
+# En tu casa
+git clone <tu-repositorio-github>
